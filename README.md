@@ -1,7 +1,7 @@
 <h1> Hi , my name is Darian Jennings </h1>I am a senior computer engineering student at St. Mary's University. 
 I'm an engineer who is passionate about elavating people, making open-source more accessible,
 and developing quality software. <br/> <br/>
-Aside from my univeristy studies, playing sports such as basketball and soccer, 
+Aside from my univeristy studies, I enjoy playing sports such as basketball and soccer, and
 I love to be outside enjoying nature, and lastly I enjoy coding fun ideas that you can view in my SideProjects repository.
 
 
