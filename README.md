@@ -1,4 +1,4 @@
-<h1> Hi , my name is Darian Jennings </h1>I am a senior computer engineering student at St. Mary's University. 
+<h1> Hi , my name is Darian Jennings </h1>I am an incoming Ph.D. student at The University of Florida.
 I'm an engineer who is passionate about elavating people, making open-source more accessible,
 and developing efficient & optimal software solutions. <br/> <br/>
 Aside from my univeristy studies, I enjoy playing sports such as basketball and soccer,
