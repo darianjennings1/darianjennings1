@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darianjennings1&label=Profile%20views&color=0e75b6&style=flat" alt="darianjennings1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darianjennings1" alt="darianjennings1" /></a> </p>
-
 - 🔭 I’m currently working on [Physical Adversarial Attacks on Deep-Learning based ISP Pipelines](https://arxiv.org/abs/2104.02895)
 
 - 🌱 I’m currently learning **Cybersecurity and OS Security**
