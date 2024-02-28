@@ -10,7 +10,7 @@
 - 📫 How to reach me **darianj00@gmail.com**
 
 - 📄 Check out my RESUME -> [here](https://drive.google.com/file/d/1qn5rAevN-r2GQwdI6tZc10ax1994pddn/view?usp=drive_link)
-- ⚡ Fun fact **I am ambidextrous**
+- ⚡ Fun fact: **I am ambidextrous**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
