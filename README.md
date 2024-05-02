@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darianjennings1&label=Profile%20views&color=0e75b6&style=flat" alt="darianjennings1" /> </p>
 
-- 🔭 I’m currently working on [Physical Adversarial Attacks on Deep-Learning based ISP Pipelines](https://arxiv.org/abs/2104.02895)
+- 🔭 I’m currently working on Physical Adversarial Attacks on Deep-Learning based ISP Pipelines, specifically on the [PyNET-CA model](https://arxiv.org/abs/2104.02895)
 
 - 🌱 I’m currently learning **Cybersecurity and OS Security**
 
