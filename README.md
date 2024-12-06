@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darianjennings1&label=Profile%20views&color=0e75b6&style=flat" alt="darianjennings1" /> </p>
 
-- 🔭 I’m currently working part-time as a Headstarter AI Software Engineering Fellow
-
-- 🌱 I’m currently learning **Cybersecurity and OS Security**
+- 🔭 I’m currently working full-time as a Software Engineer with the Department of Defense (DoD)
+- 🌱 I’m currently working on my **CompTIA Security+**
 
 - 📫 How to reach me **darianj00@gmail.com**
 
