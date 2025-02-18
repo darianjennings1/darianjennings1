@@ -1,3 +1,8 @@
+This is **bold text** using asterisks
+This is __bold text__ using underscores
+This is <u>underlined text</u> using HTML
+This is **<u>bold and underlined</u>** text
+
 <h1 align="center">Hi 👋, I'm Darian Jennings</h1>
 <h3 align="center">Computer Scientist & Engineer</h3>
 
